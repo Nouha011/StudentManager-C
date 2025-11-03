@@ -1,0 +1,1001 @@
+id,first_name,last_name,age,grade,major
+1,Dominica,Tolliday,22,54.04,Psychology
+2,Aindrea,Seakin,19,42.38,Computer Science
+3,Harmon,Noyce,27,25.97,Fine Arts
+4,Janean,McIlmurray,30,54.84,Architecture
+5,Itch,Caush,28,44.72,Psychology
+6,Ingeberg,Atteridge,21,25.78,Architecture
+7,Redford,Rycraft,20,98.73,Economics
+8,Danielle,Spensly,24,73.66,International Relations
+9,Demetris,Laffling,23,34.79,Data Science
+10,Mathew,Bevington,23,0.07,Data Science
+11,Derwin,Klejin,30,73.95,Political Science
+12,Lina,Clair,27,26.65,Computer Science
+13,Craggy,Splevings,21,28.25,International Relations
+14,Romeo,Smewings,22,49.31,Biology
+15,Irving,Dondon,26,16.66,Business Administration
+16,Julieta,Jonathon,23,3.92,Economics
+17,Neddie,Feldstern,23,87.32,Artificial Intelligence
+18,Harrie,Boothman,19,33.17,Law
+19,Alanson,Colliford,27,64.99,Political Science
+20,Ingelbert,Gooder,25,63.60,Medicine
+21,Web,Witheford,19,46.65,Political Science
+22,Ferdinand,Matley,22,90.45,Environmental Science
+23,Mozelle,Hain,24,49.52,Political Science
+24,Marcelo,Medforth,29,72.34,Law
+25,Ilaire,Dirand,22,16.64,Architecture
+26,Cristine,Wollen,25,40.49,Artificial Intelligence
+27,Zelig,Pellissier,28,28.13,Law
+28,Earvin,Klaesson,27,47.69,Fine Arts
+29,Lanny,Pickavance,19,98.39,Business Administration
+30,Martyn,Python,28,95.76,Mechanical Engineering
+31,Twila,Game,19,36.15,Law
+32,Cull,Petow,30,12.09,Economics
+33,Melvin,Coils,26,92.75,Law
+34,Joanna,Pitt,29,4.24,Data Science
+35,Cesaro,Muzzillo,23,62.42,Data Science
+36,Dallas,Tinham,22,45.56,Environmental Science
+37,Prent,Pegrum,26,27.59,Environmental Science
+38,Cathrine,Sleeford,19,48.75,Artificial Intelligence
+39,Janene,Skrzynski,30,88.73,Business Administration
+40,Erhard,Reddin,22,42.16,International Relations
+41,Marcela,Grinnell,29,51.45,Artificial Intelligence
+42,Petronille,Loney,23,38.19,Biology
+43,Hy,Valenti,28,2.91,Business Administration
+44,Emilio,Bellocht,24,20.09,Political Science
+45,Leshia,Cranshaw,28,82.72,International Relations
+46,Prissie,Kilgallon,29,32.65,Biology
+47,Rosemary,Sheard,18,81.98,Data Science
+48,Berti,Calan,23,83.40,Medicine
+49,Pammy,Coldtart,20,23.34,Environmental Science
+50,Buffy,Conlon,20,83.58,Mechanical Engineering
+51,Ricki,Bernuzzi,30,5.61,Medicine
+52,Raffaello,Cruess,22,27.14,Architecture
+53,Merrily,Baldi,20,36.63,Architecture
+54,North,Stirzaker,18,23.80,Environmental Science
+55,Kesley,Luxford,25,28.66,Data Science
+56,Waldo,Emerton,30,46.79,Law
+57,Domingo,Carsey,24,30.87,Political Science
+58,Cass,O'Dyvoie,18,58.59,Environmental Science
+59,Robbie,Marcq,27,29.35,Biology
+60,Federico,Davenhill,25,90.95,Business Administration
+61,Iseabal,Yakunin,27,95.07,Law
+62,Abbie,Roskruge,30,60.39,Artificial Intelligence
+63,Lisbeth,Riccardi,26,11.77,Medicine
+64,Berni,Jaulmes,25,33.25,Biology
+65,Pat,Ireland,26,55.65,Biology
+66,Carole,Chesson,18,7.24,Economics
+67,Ardene,Burthom,25,57.23,Data Science
+68,Devin,Launchbury,24,4.34,Environmental Science
+69,Nicky,Dankersley,30,8.01,Environmental Science
+70,Mirella,Madsen,23,41.81,Computer Science
+71,Andrea,Walkling,26,65.00,Artificial Intelligence
+72,Moina,Zecchinelli,25,18.65,Political Science
+73,Lynnea,Jacob,20,57.48,Political Science
+74,Casper,Beeke,19,46.35,Psychology
+75,Valry,Danovich,23,69.91,Environmental Science
+76,Rafaelita,Jeanon,30,35.92,Artificial Intelligence
+77,Melina,Crocetto,19,19.68,Medicine
+78,Sebastien,Rann,18,61.53,Computer Science
+79,Cheryl,Muselli,23,81.04,Psychology
+80,Garrot,Savory,24,23.34,Medicine
+81,Reine,Dimmock,27,25.86,Data Science
+82,Catha,Weth,22,84.69,Architecture
+83,Joellen,Aughtie,24,95.69,Psychology
+84,Matty,Hallgalley,22,80.88,Data Science
+85,Alejandra,Detoc,26,47.07,Environmental Science
+86,Jackquelin,Skerman,23,85.76,Business Administration
+87,Quillan,Hiseman,28,76.60,Fine Arts
+88,Slade,Crouse,27,31.66,International Relations
+89,Timotheus,Farran,22,3.31,Computer Science
+90,Ted,Swin,28,62.33,Psychology
+91,Myrtie,Ganford,19,28.76,International Relations
+92,Mufi,Garrat,28,60.18,Biology
+93,Reynolds,Coatman,27,67.63,Psychology
+94,Valaria,Coomes,27,92.62,Law
+95,Ev,Francie,26,4.82,International Relations
+96,Alida,Pontain,19,89.11,Environmental Science
+97,Alfy,Elion,20,54.77,International Relations
+98,Hephzibah,Ruselin,28,33.12,Political Science
+99,Donalt,Jacke,19,70.06,Mechanical Engineering
+100,Delia,Gare,26,9.44,Economics
+101,Sol,Shotter,29,35.52,Data Science
+102,Odille,Dalrymple,27,13.56,Fine Arts
+103,Esther,Habeshaw,27,0.96,Architecture
+104,Rickie,Charity,29,38.88,Law
+105,Demetria,Jzak,23,32.79,Mechanical Engineering
+106,Alana,Manzell,22,62.18,Artificial Intelligence
+107,Tuck,Challiss,26,18.53,Artificial Intelligence
+108,Bridget,Botwood,21,97.01,International Relations
+109,Berkley,Grabert,24,23.93,International Relations
+110,Bobbie,Mecco,29,20.76,Law
+111,Frannie,Grisenthwaite,28,39.74,Business Administration
+112,Sibby,Quinton,18,81.09,International Relations
+113,Amery,Woollends,22,51.37,Environmental Science
+114,Bryn,Denmead,28,73.32,International Relations
+115,Celina,Iorizzo,26,53.18,Data Science
+116,Junette,Arnowicz,22,25.28,Artificial Intelligence
+117,Read,Dennington,21,99.67,Architecture
+118,Genia,Featonby,18,71.11,Computer Science
+119,Janine,Lahiff,19,83.45,Biology
+120,Madel,Allcroft,28,77.18,Data Science
+121,Allison,Bowra,22,70.33,Environmental Science
+122,Marcellus,Woollends,21,1.67,Political Science
+123,Louella,Rapper,20,49.31,Business Administration
+124,Wenonah,Brunel,26,87.56,Fine Arts
+125,Cesaro,Hillaby,18,23.89,Computer Science
+126,Madelyn,Cavozzi,30,77.80,Artificial Intelligence
+127,Danell,Danielsen,23,63.67,Data Science
+128,Sybille,McJerrow,18,93.46,Economics
+129,Elsa,Keuntje,19,23.05,Medicine
+130,Cchaddie,Honacker,21,62.72,Psychology
+131,Kort,Perree,22,91.61,Law
+132,Bobbette,Shellcross,18,37.82,Biology
+133,Farlee,Ocheltree,24,13.00,Political Science
+134,Jeri,Kirk,27,27.84,International Relations
+135,Renae,Dark,20,13.66,Data Science
+136,Dniren,Dilon,28,94.28,Mechanical Engineering
+137,Lorita,Diprose,27,41.52,International Relations
+138,Lief,Zoellner,23,71.36,Economics
+139,Viviyan,Tretwell,25,88.80,Artificial Intelligence
+140,Claire,Guerreau,26,12.32,International Relations
+141,Perry,Haibel,23,12.36,Data Science
+142,Thadeus,Pikhno,20,68.99,Biology
+143,Max,McGillivrie,21,98.55,Fine Arts
+144,Nevsa,Segar,29,49.16,Fine Arts
+145,Hermina,Jefferies,30,37.81,Medicine
+146,Lacie,Adamsen,28,36.38,Medicine
+147,Maximilianus,Lowth,23,53.06,Law
+148,Anissa,Rude,25,53.88,Artificial Intelligence
+149,Eryn,Kimmitt,23,71.28,Business Administration
+150,Del,Gillian,20,37.77,Architecture
+151,Lottie,Sifleet,21,4.85,Law
+152,Scarlet,Grindrod,27,20.85,Psychology
+153,Astra,Baldinotti,26,55.68,Psychology
+154,Rosalia,Erdis,30,24.26,Environmental Science
+155,Angele,Dicks,28,95.21,Business Administration
+156,Simmonds,Dallyn,26,92.23,Medicine
+157,Mirelle,Baudon,20,2.01,International Relations
+158,Halette,Quigley,26,33.19,Political Science
+159,Timmy,Fenlon,20,55.86,Fine Arts
+160,Elli,Fortin,22,23.98,Medicine
+161,Rancell,Braz,28,74.02,Economics
+162,Nari,Murrhardt,20,15.99,Political Science
+163,Amalie,Esler,28,55.83,Data Science
+164,Jessy,Leemans,20,6.86,Economics
+165,Sadye,Angerstein,30,16.85,Data Science
+166,Ty,Worsalls,25,37.55,Architecture
+167,Millisent,Grime,24,45.01,Economics
+168,Luke,Cotman,29,11.34,International Relations
+169,Cello,Gobolos,25,31.97,Economics
+170,Annora,Kitchingham,24,38.95,Medicine
+171,Coretta,Akehurst,21,94.25,Mechanical Engineering
+172,Shari,Dalbey,18,52.12,Mechanical Engineering
+173,Bendicty,Hedney,30,41.05,Artificial Intelligence
+174,Devin,Lambeth,26,53.80,Fine Arts
+175,Collette,Wathall,28,15.14,Artificial Intelligence
+176,Rickert,Slowly,29,93.45,Mechanical Engineering
+177,Garrik,Tippin,24,95.91,International Relations
+178,Lyell,Dillintone,20,40.94,Law
+179,Giraldo,Cartwright,22,33.56,Artificial Intelligence
+180,Jacynth,Devereu,24,17.86,Mechanical Engineering
+181,Robinetta,Obbard,19,37.37,Psychology
+182,Vassily,Snelle,28,61.13,Law
+183,Concordia,Hrus,28,65.73,Artificial Intelligence
+184,Ediva,Sidon,24,60.23,Medicine
+185,Vi,Coldridge,25,19.84,Political Science
+186,Remington,Claiton,26,25.70,International Relations
+187,Nerta,Ruckman,29,95.24,Political Science
+188,Corabel,Kmietsch,19,72.58,Artificial Intelligence
+189,Krisha,MacKnocker,18,33.05,Political Science
+190,Tommy,Hewins,26,46.04,Architecture
+191,Lew,Wride,21,88.75,Mechanical Engineering
+192,Coletta,Garey,30,50.71,Medicine
+193,Jolee,Bagley,22,72.18,International Relations
+194,James,Leabeater,26,98.98,Environmental Science
+195,Mariam,Ventura,28,91.36,Psychology
+196,Abagael,Mozzi,25,77.12,Artificial Intelligence
+197,Anabal,Halfhide,22,97.32,Economics
+198,Tessy,Pechacek,22,17.43,International Relations
+199,Ida,Prior,18,6.75,Artificial Intelligence
+200,Georgia,Kuhwald,25,40.28,Mechanical Engineering
+201,Amelina,Pashbee,19,45.14,International Relations
+202,Vin,Grosvener,21,63.34,Psychology
+203,Roy,Ferrari,30,95.60,Psychology
+204,Samantha,Pheasant,29,39.48,Mechanical Engineering
+205,Val,Pallesen,20,74.32,Business Administration
+206,Norene,Ferreri,28,61.06,Architecture
+207,Daisy,Angeau,18,68.81,Environmental Science
+208,Darcy,Evanson,30,42.84,Artificial Intelligence
+209,Christopher,Pringell,21,94.64,Economics
+210,Flor,Henriques,28,43.78,Artificial Intelligence
+211,Carlee,Crinkley,23,21.92,Psychology
+212,Johann,Barney,23,85.15,Fine Arts
+213,Janey,Burder,25,30.25,Economics
+214,Feliza,Dikelin,26,30.39,Political Science
+215,Veronica,Draisey,21,75.06,Data Science
+216,Elmore,Southall,30,52.63,Biology
+217,Claus,Manwell,28,55.98,Architecture
+218,Derward,Woliter,22,81.88,Biology
+219,Elwira,Worledge,27,63.32,Environmental Science
+220,Merle,Fried,25,86.59,Psychology
+221,Nance,Eede,30,97.38,Business Administration
+222,Verne,Escale,19,52.78,Architecture
+223,Cross,Schnieder,29,4.33,Data Science
+224,Niki,Ayrton,27,71.50,Computer Science
+225,Sherline,Clingan,23,75.04,Environmental Science
+226,Terence,Pomery,25,10.31,Law
+227,Anna-diane,Gillyatt,21,70.91,Data Science
+228,Amos,Tilby,27,15.17,Mechanical Engineering
+229,Darnall,Traske,28,45.31,Biology
+230,Elinor,Lansberry,29,2.79,Mechanical Engineering
+231,Elvera,Scheffler,24,30.51,Environmental Science
+232,Ines,Pechacek,23,33.06,Fine Arts
+233,Alwin,Feria,19,46.85,Political Science
+234,Reamonn,Blaschke,27,94.13,Artificial Intelligence
+235,Sarah,Towson,30,66.63,Environmental Science
+236,Julia,Jeffes,25,68.71,International Relations
+237,Dermot,Cisneros,20,87.57,International Relations
+238,Benedikta,Noyes,26,85.42,Mechanical Engineering
+239,Eartha,Renachowski,27,49.70,Economics
+240,Donica,Eyes,23,76.85,Psychology
+241,Andriette,Bromfield,19,30.92,Psychology
+242,Nevile,McGrouther,30,28.23,Environmental Science
+243,Tobie,Thunderman,23,61.39,Computer Science
+244,Lucienne,Voak,26,29.89,Environmental Science
+245,Minny,Coaster,26,3.02,Architecture
+246,Hastings,Sapshed,18,19.48,Political Science
+247,Dasya,Baal,30,76.96,Business Administration
+248,Graham,MacSherry,30,91.68,International Relations
+249,Heall,Pawel,18,3.38,Psychology
+250,Pammie,McGillreich,19,81.43,Data Science
+251,Darelle,Newborn,29,3.49,Computer Science
+252,Lena,Blenkin,22,20.49,Business Administration
+253,Isacco,Thompkins,23,59.38,Business Administration
+254,Sinclare,Matthews,27,20.97,Mechanical Engineering
+255,Florida,Hoogendorp,24,66.10,Artificial Intelligence
+256,Ignaz,Giabucci,30,4.89,Economics
+257,Aksel,Bettis,22,25.66,Computer Science
+258,Alica,Willoway,29,49.97,Medicine
+259,Kaspar,Roulston,27,47.68,Architecture
+260,Leigha,Orta,26,39.97,Political Science
+261,Riordan,Greve,28,66.74,Data Science
+262,Lawrence,Way,29,92.57,Economics
+263,Roxane,Stivers,23,75.00,Environmental Science
+264,Briana,Jiru,26,33.26,Computer Science
+265,Barney,Sphinxe,23,92.81,Data Science
+266,Ashlan,Lukovic,24,9.70,Mechanical Engineering
+267,Luis,Antoni,27,30.75,Environmental Science
+268,Aldwin,Burchess,27,72.91,International Relations
+269,Sharleen,Winsley,26,100.00,Architecture
+270,Tara,Bauld,25,67.37,Architecture
+271,Torie,McKnish,22,7.45,Mechanical Engineering
+272,Jessey,Hayesman,27,60.60,Mechanical Engineering
+273,Vilhelmina,Rawet,25,10.98,Business Administration
+274,Marjory,McLauchlin,26,60.87,Medicine
+275,Ros,Kerwin,20,43.34,International Relations
+276,Pavla,Spinozzi,25,15.34,Artificial Intelligence
+277,Hogan,Pykerman,19,53.62,Psychology
+278,Bourke,Haile,25,65.87,Psychology
+279,Matilda,Gilluley,18,18.96,Computer Science
+280,Elisha,Rosingdall,22,10.86,Economics
+281,Chucho,Dunning,23,73.10,Data Science
+282,Tomasine,Dwane,27,9.34,Data Science
+283,Marina,Searight,30,28.70,Fine Arts
+284,Sibylle,Halshaw,28,51.98,Psychology
+285,Skippie,Eyree,25,26.10,Data Science
+286,Kriste,Twohig,24,29.32,Mechanical Engineering
+287,Leelah,Prescote,25,98.97,Data Science
+288,Guilbert,Pitson,22,98.42,Biology
+289,Jefferson,Ruttgers,27,33.91,Computer Science
+290,Tiffani,Andrys,29,58.60,Data Science
+291,Ola,McReath,29,61.64,Law
+292,Esdras,Paradis,25,71.76,Economics
+293,Minor,Scouller,25,11.59,Business Administration
+294,Tedd,Grimsdith,26,98.34,Political Science
+295,Sharon,Phayre,24,48.12,Fine Arts
+296,Ilsa,McGenn,18,98.06,Architecture
+297,Caryn,Cheeke,23,57.15,Psychology
+298,Bryn,Redier,24,38.76,Political Science
+299,Talya,Sudworth,22,84.11,Biology
+300,Ase,Bazell,24,58.89,Mechanical Engineering
+301,Karia,Wilder,21,73.16,Medicine
+302,Cecilia,Gashion,18,50.64,Computer Science
+303,Dorise,Mepsted,28,18.21,Medicine
+304,Kassandra,Dalyiel,19,11.67,Medicine
+305,Elspeth,Dincke,20,38.33,Law
+306,Ginny,Hendrickx,27,0.34,Fine Arts
+307,Margret,Braz,18,94.23,Architecture
+308,Lori,McMackin,29,11.22,Law
+309,Fulvia,Scorah,22,54.28,Political Science
+310,Lemar,Reddel,25,5.22,Computer Science
+311,Leslie,Weight,27,16.83,Biology
+312,Town,Bonnick,24,43.19,Psychology
+313,Sybil,Braime,30,8.44,Fine Arts
+314,Horatius,Maulkin,27,39.68,Fine Arts
+315,Isidro,Trusslove,18,76.26,Computer Science
+316,Fidelity,Maber,26,18.82,Architecture
+317,Biddie,Rance,23,9.22,Computer Science
+318,Patricio,Estrella,27,32.55,International Relations
+319,Katina,Paal,26,10.73,Law
+320,Janean,Perryn,25,76.97,Political Science
+321,Derry,Siccombe,27,21.99,Environmental Science
+322,Sherrie,Binford,28,40.56,Artificial Intelligence
+323,Libbey,Tunesi,20,61.18,Business Administration
+324,Annora,Leworthy,24,37.58,International Relations
+325,Bride,Yushkov,19,96.11,Architecture
+326,Rhodie,Lingner,29,99.50,Fine Arts
+327,Fons,Kirtlan,30,48.23,Computer Science
+328,Antons,Ianinotti,19,54.69,Environmental Science
+329,Karee,Betjeman,19,52.29,Computer Science
+330,Ermina,Ackerley,24,13.13,Biology
+331,Aeriela,Lecky,23,47.36,Biology
+332,Raphaela,Fitchet,20,15.63,Fine Arts
+333,Bari,McCrum,24,84.13,Psychology
+334,Brigida,Cadney,27,25.25,Computer Science
+335,Farrell,Rouf,27,15.82,Political Science
+336,Theresina,Tegler,30,59.59,Computer Science
+337,Daphne,Houchen,27,81.55,Environmental Science
+338,Prisca,Euels,22,31.64,Mechanical Engineering
+339,Elsi,Scoggin,21,70.45,Data Science
+340,Leela,Enbury,23,36.99,Architecture
+341,Ally,Kleinsinger,25,43.05,Fine Arts
+342,Rodd,Enoch,25,77.39,Medicine
+343,Dame,Paddison,18,72.89,International Relations
+344,Lu,Episcopi,23,42.21,Biology
+345,Bartlett,Howles,22,73.80,Architecture
+346,Lucy,Beaudry,25,19.31,Data Science
+347,Chelsy,Caccavari,19,5.70,Data Science
+348,Siouxie,Towhey,26,46.83,Environmental Science
+349,Susannah,Deller,28,31.47,Law
+350,Marianne,Kirkpatrick,30,79.68,Biology
+351,Jake,Peirone,19,34.42,Artificial Intelligence
+352,Betta,Pillans,28,53.43,International Relations
+353,Marthe,Skegg,25,15.79,Artificial Intelligence
+354,Elfreda,Jewitt,30,40.69,Environmental Science
+355,Adena,Maudling,23,62.63,Environmental Science
+356,Valeda,Hallad,24,21.69,Environmental Science
+357,Paulita,Oxbrow,21,67.70,Economics
+358,Atalanta,Basketfield,27,36.92,International Relations
+359,Michaelina,Leece,24,31.99,Political Science
+360,Maryann,Kinkaid,22,27.19,Artificial Intelligence
+361,Haven,Ende,22,58.88,Medicine
+362,Ayn,Dominici,26,77.44,Fine Arts
+363,Karia,Sargint,19,28.10,Law
+364,Morry,Blanque,22,51.12,Law
+365,Keenan,Hurndall,30,29.86,Psychology
+366,Kailey,Kenner,25,18.21,Business Administration
+367,Paulina,Joannidi,26,53.45,Law
+368,Teodor,Kirckman,28,79.45,Environmental Science
+369,Penrod,Moneypenny,22,42.64,Business Administration
+370,Dedra,Menicomb,26,34.55,Data Science
+371,Stan,Holdron,26,82.13,Mechanical Engineering
+372,Dyan,Fredi,25,81.96,Law
+373,Etienne,Ros,20,3.10,Business Administration
+374,Bucky,Soden,30,47.51,Data Science
+375,Tami,McCallister,24,93.61,Medicine
+376,Lesly,Bolens,29,43.92,Data Science
+377,Wilma,Rocco,27,20.04,Political Science
+378,Shelly,Maydwell,26,56.85,Data Science
+379,Winthrop,Mcall,24,6.33,Artificial Intelligence
+380,Maddie,Haggith,24,31.26,Political Science
+381,Donella,Fishlee,28,32.42,Architecture
+382,Sutherlan,Worthing,18,26.02,Psychology
+383,Jorge,Ingolotti,28,63.54,Law
+384,Eric,Izard,23,11.52,Law
+385,Bekki,Seifenmacher,23,18.10,Architecture
+386,Gerhardt,Chesman,26,45.32,Computer Science
+387,Bear,Vertigan,21,13.79,Artificial Intelligence
+388,Ediva,McKennan,26,79.64,Artificial Intelligence
+389,Clarette,Morford,22,26.53,Political Science
+390,Iver,Michieli,22,7.40,Political Science
+391,Maximilianus,Mattosoff,26,1.54,Law
+392,Patrice,Wallsworth,18,75.72,Business Administration
+393,Marcus,MacSween,26,78.08,Biology
+394,Kellby,Brydson,28,30.69,Economics
+395,Alicia,Navarre,18,80.36,International Relations
+396,Phylis,Graver,27,17.22,Economics
+397,Torin,Headland,26,60.29,Political Science
+398,Ferguson,Flawn,21,77.96,Medicine
+399,Gonzalo,Heinke,29,89.72,Biology
+400,Maighdiln,Browett,21,26.73,Law
+401,Vasili,Boxer,20,87.69,Business Administration
+402,Emma,Lonie,29,68.03,Law
+403,Lianne,Mulcaster,20,46.19,Business Administration
+404,Perla,Camerati,30,4.53,Fine Arts
+405,Marylynne,Risman,18,11.20,Biology
+406,Woodman,Cornbill,22,0.38,Law
+407,Weston,McQuaker,27,43.67,Law
+408,Elfreda,Hart,25,76.18,Data Science
+409,Stormie,Finessy,22,41.90,Mechanical Engineering
+410,Collen,Oganesian,19,94.07,Computer Science
+411,Sherwood,Inglese,28,40.77,Data Science
+412,Orella,Maclaine,18,32.63,Economics
+413,Midge,Chatteris,21,42.46,Fine Arts
+414,Alexandre,Vowell,18,26.47,Medicine
+415,Obediah,Quigg,29,87.86,Fine Arts
+416,Valeria,Trudgion,25,59.02,Environmental Science
+417,Nye,Baunton,20,82.90,International Relations
+418,Dalis,Pidwell,27,60.27,Data Science
+419,Katine,Cobain,28,60.33,Business Administration
+420,Bernelle,Athelstan,27,91.08,Computer Science
+421,Brigitte,Swan,27,86.65,Data Science
+422,Iormina,Grimme,28,49.07,Architecture
+423,Cash,Kither,26,65.15,Mechanical Engineering
+424,Midge,Mazillius,30,54.08,Fine Arts
+425,Roarke,Pasque,27,68.91,International Relations
+426,Kain,Ceschelli,18,80.77,Data Science
+427,Averil,Bloodworth,21,67.91,Architecture
+428,Elladine,Eskriett,19,37.67,Data Science
+429,Crosby,Tombleson,27,52.10,Mechanical Engineering
+430,Josias,Henkmann,21,56.63,Psychology
+431,Stacy,Scanderet,21,48.37,Business Administration
+432,Kimmi,Stag,27,32.53,Architecture
+433,Fredia,Sivior,19,89.88,Artificial Intelligence
+434,Kittie,Traut,19,76.05,Fine Arts
+435,Ardenia,Sivewright,26,45.84,Mechanical Engineering
+436,Eldon,Stockley,28,72.97,Data Science
+437,Charlie,Hedge,28,42.56,Psychology
+438,Normy,Darkins,21,60.88,Architecture
+439,Becca,Unger,18,32.57,Political Science
+440,Dee dee,Endacott,21,74.03,Medicine
+441,Brewer,Wilstead,22,34.69,Computer Science
+442,Carey,Boshers,28,70.41,Political Science
+443,Siusan,Berth,25,65.22,Business Administration
+444,Rodge,Pedwell,29,65.90,Psychology
+445,Devonne,Reubens,18,32.92,Biology
+446,Tatiana,Bowdon,28,18.31,Architecture
+447,Brody,Jacox,18,13.56,Medicine
+448,Shell,Blackleech,23,91.99,Biology
+449,Glynis,Suart,26,94.56,Biology
+450,Betsey,Crommett,30,28.74,Environmental Science
+451,Wendye,Skinn,18,41.59,Business Administration
+452,John,Revitt,19,66.37,Data Science
+453,Grissel,Rigden,24,86.91,Political Science
+454,Tandie,Tuberfield,19,49.62,Political Science
+455,Abie,Woakes,25,56.28,Artificial Intelligence
+456,Lefty,Mathieu,19,27.30,Political Science
+457,Opal,Hookes,19,34.36,Medicine
+458,Quillan,Jankowski,29,62.67,Architecture
+459,Emelina,Domniney,22,56.61,Data Science
+460,Rina,Ratter,24,9.12,Artificial Intelligence
+461,Cris,Breton,20,36.78,Biology
+462,Moishe,Mackiewicz,30,62.70,Economics
+463,Dewain,Auguste,22,14.78,Artificial Intelligence
+464,Nicolai,Hulse,23,92.50,Political Science
+465,Willetta,Bamell,19,0.92,Architecture
+466,Ariel,Gostage,26,13.51,Fine Arts
+467,Mae,Witcomb,25,65.80,Architecture
+468,Aluin,Boswood,21,47.41,Law
+469,Katheryn,Edbrooke,21,65.25,Medicine
+470,Ev,Whitwell,23,9.37,Economics
+471,Pammi,Corzon,29,56.45,International Relations
+472,Flem,Eldrid,22,13.98,Fine Arts
+473,Claiborne,Drawmer,26,23.39,Business Administration
+474,Annamarie,Hannond,30,25.27,Architecture
+475,Mirilla,Lovering,29,48.34,International Relations
+476,Kiri,Melanaphy,23,22.17,Mechanical Engineering
+477,Burnaby,Labbett,23,65.62,Architecture
+478,Amos,Eisig,22,29.76,Environmental Science
+479,Dagny,McLagan,29,68.56,Psychology
+480,Kennedy,Bison,30,88.74,Data Science
+481,Valeda,Ormistone,24,7.00,Law
+482,Jill,Briztman,25,37.43,Medicine
+483,Danit,Ray,27,56.15,Law
+484,Casey,Minchella,19,41.67,Medicine
+485,Morgen,Fellman,28,4.45,Environmental Science
+486,Trip,Cruise,25,40.62,Mechanical Engineering
+487,Lina,Oda,29,66.71,Business Administration
+488,Perry,Hamlett,24,75.78,Biology
+489,Massimo,Dionisi,22,30.52,International Relations
+490,Jeromy,Gorioli,20,98.00,Data Science
+491,Byrom,McKitterick,20,61.59,International Relations
+492,Danice,Jendrich,29,41.80,Economics
+493,Silvio,Hartle,21,94.38,Psychology
+494,Timofei,Knoles,25,4.33,Medicine
+495,Piggy,McPhelimy,21,92.49,Mechanical Engineering
+496,Bobby,Clemot,25,96.69,Architecture
+497,Ania,Cromar,26,25.67,Biology
+498,Jodie,Behning,28,48.22,Data Science
+499,Hubie,Liveley,27,57.25,International Relations
+500,Hortensia,Fairall,25,53.95,Artificial Intelligence
+501,Tamas,Skentelbury,24,64.15,Computer Science
+502,Ella,Lemon,18,71.90,International Relations
+503,Gaultiero,Epsley,30,33.95,Data Science
+504,Bren,Graeme,30,40.85,Computer Science
+505,Alvie,O'Noland,20,1.62,Data Science
+506,Sol,Moyles,30,43.67,Artificial Intelligence
+507,Kerry,Cockman,24,20.17,Environmental Science
+508,Jonathan,Sowte,20,44.58,Biology
+509,Neda,Zuann,26,74.13,Architecture
+510,Silvain,Kaming,23,54.74,Mechanical Engineering
+511,Sully,Rebichon,21,27.25,Mechanical Engineering
+512,Bria,Btham,28,29.77,Fine Arts
+513,Pablo,McCormick,29,15.74,Medicine
+514,Sheilah,Kaemena,19,61.73,Architecture
+515,Nessie,Swaffer,20,13.98,Psychology
+516,Almeda,Battleson,23,23.46,Law
+517,Dewie,Wheelhouse,28,70.55,Psychology
+518,Emery,Troillet,23,58.21,Biology
+519,Agretha,Choke,19,80.85,Computer Science
+520,Johannes,Saintpierre,20,74.56,Political Science
+521,Conroy,Dahle,27,3.62,Data Science
+522,Leonidas,De Vile,23,89.96,Political Science
+523,Ragnar,Oblein,21,17.85,Business Administration
+524,Diann,Regardsoe,25,95.39,Artificial Intelligence
+525,Truman,Blackboro,19,35.40,Political Science
+526,Alessandra,Tilbury,24,70.46,International Relations
+527,Cristi,Cribbin,20,98.95,Biology
+528,Kati,Tacker,27,80.18,Biology
+529,Marcella,Howels,19,15.83,Fine Arts
+530,Jayne,Craighill,19,9.45,Mechanical Engineering
+531,Timothee,Wolver,29,72.74,Data Science
+532,Nickola,Spoors,24,53.94,Medicine
+533,Margo,Lifsey,23,53.65,Law
+534,Malvina,Delacourt,26,21.88,Artificial Intelligence
+535,Stefano,Grimley,18,31.70,Economics
+536,Alexio,Jacks,19,31.21,Data Science
+537,Monroe,Rexworthy,21,18.03,Artificial Intelligence
+538,Annemarie,Martinello,19,50.28,Environmental Science
+539,Cathy,Ilyin,22,62.56,Medicine
+540,Idell,Markushkin,23,79.88,Law
+541,Mal,Shoemark,25,13.02,Mechanical Engineering
+542,Salem,Ordelt,26,35.00,Biology
+543,Salim,Bertenshaw,29,99.04,Law
+544,Maureene,Fosh,19,72.49,Data Science
+545,Collen,Wapplington,20,43.08,Data Science
+546,Archibald,Linnock,19,55.63,Architecture
+547,Zelig,Lees,19,54.32,Artificial Intelligence
+548,Wendi,Hurling,22,92.64,Fine Arts
+549,Cobbie,Mellows,27,9.42,Business Administration
+550,Shandra,Larvor,18,27.43,Environmental Science
+551,Linnell,Orys,21,26.29,International Relations
+552,Cheston,Bichard,24,97.27,Artificial Intelligence
+553,Maribel,Spencley,20,25.84,International Relations
+554,Roda,Rattry,28,56.46,Environmental Science
+555,Consuela,Lewknor,30,22.23,Environmental Science
+556,Barby,Andrysek,25,50.54,Biology
+557,Koressa,Blockley,19,18.67,Psychology
+558,Caroljean,Gradon,25,47.04,Environmental Science
+559,Rey,Standring,30,90.48,Biology
+560,Doralynne,Crone,29,69.34,Biology
+561,Lil,Thornally,21,52.81,Architecture
+562,Chrissie,Knapp,27,49.79,Fine Arts
+563,Shelton,Symcoxe,18,16.68,International Relations
+564,Gery,Reen,28,26.65,Mechanical Engineering
+565,Naomi,Lavies,20,4.36,Economics
+566,Nichole,Sergent,20,86.15,Computer Science
+567,Belinda,Swindin,24,15.69,Fine Arts
+568,Marietta,Kemet,27,15.54,Artificial Intelligence
+569,Auberon,Rapper,27,85.30,Environmental Science
+570,Dolli,Kobiela,30,59.84,Political Science
+571,Isahella,Chilvers,18,49.75,Economics
+572,Andre,Samudio,20,96.93,Economics
+573,Cletis,Tomas,26,6.66,Environmental Science
+574,Antoine,Pidwell,30,25.08,Environmental Science
+575,Jennine,Bellany,18,21.22,Architecture
+576,Naoma,Branchet,19,0.92,Artificial Intelligence
+577,Phillipe,Crooks,19,75.42,Architecture
+578,Lilly,Sloam,28,45.08,Computer Science
+579,Carly,Beauly,24,87.38,Artificial Intelligence
+580,Guthrie,Blackstone,25,74.85,Medicine
+581,Jeniffer,Aickin,18,58.48,Data Science
+582,Delmar,Edlyne,18,87.23,Data Science
+583,Earvin,Hornbuckle,19,34.04,Psychology
+584,Tobe,Stayte,30,98.43,Artificial Intelligence
+585,Arlena,Pescod,20,12.23,Mechanical Engineering
+586,Tabina,Wessell,30,96.15,Fine Arts
+587,Renata,Fibbitts,21,45.55,Computer Science
+588,Amory,Tremblay,26,98.91,Data Science
+589,Kingston,Andersch,26,69.77,Political Science
+590,Marybeth,Smallridge,18,94.14,Mechanical Engineering
+591,Ola,Applewhite,27,12.77,Environmental Science
+592,Prudi,Menhenitt,29,86.65,Business Administration
+593,Betteanne,Pirkis,28,77.48,Law
+594,Ashlan,Duffett,23,75.90,Psychology
+595,Zared,Britner,22,41.48,Artificial Intelligence
+596,Merissa,Melding,22,50.83,Fine Arts
+597,Leonelle,Bedburrow,20,89.42,Architecture
+598,Carry,Cathel,27,71.02,Medicine
+599,Dominica,Capener,29,32.76,Artificial Intelligence
+600,Windham,Browse,28,9.42,Architecture
+601,Morgun,Slocum,20,67.50,Biology
+602,Federico,Orehead,23,53.67,Psychology
+603,Ced,Chape,27,4.21,Biology
+604,Shandie,Vinten,22,53.72,Law
+605,Emmaline,Jobey,30,68.99,Fine Arts
+606,Paxon,Foyle,21,72.86,Business Administration
+607,Jermaine,Hrinishin,29,25.01,Psychology
+608,Carlie,Ratke,19,63.40,Political Science
+609,Kasper,Klima,27,3.25,Data Science
+610,Honey,Pithcock,22,12.34,Political Science
+611,Pasquale,Kolin,23,7.12,Environmental Science
+612,Kassi,Beedell,23,1.18,Environmental Science
+613,Francis,Paddick,27,4.25,Law
+614,Arlen,Kondrachenko,29,32.48,Mechanical Engineering
+615,Arlena,Mafham,26,21.60,Architecture
+616,Wanids,Eastcourt,29,10.21,Artificial Intelligence
+617,Karolina,Vernham,22,15.95,Biology
+618,Wye,Gleeson,27,93.20,Political Science
+619,Thorpe,Veschi,26,93.73,Mechanical Engineering
+620,Augusto,Paliser,18,99.45,Data Science
+621,Lillian,Schruyers,30,43.32,Computer Science
+622,Staford,Dinse,30,24.81,Fine Arts
+623,Lem,Baudry,20,9.04,Biology
+624,See,Kedge,30,18.27,Economics
+625,Paxton,Sargison,24,19.03,Data Science
+626,Vladimir,Hornig,27,26.72,Economics
+627,Nathalie,Currall,27,61.70,Law
+628,Claudie,Fake,18,65.86,Economics
+629,Rosemaria,Danhel,18,3.24,Biology
+630,Modestia,Calderbank,19,28.98,Business Administration
+631,Aurelia,Groves,19,49.85,Political Science
+632,Marcelia,Iffe,19,81.16,Psychology
+633,Hendrik,Pargeter,22,16.90,Political Science
+634,Gates,Garrick,27,18.39,Psychology
+635,Lindi,Kencott,30,18.10,Fine Arts
+636,Raul,Purkins,21,57.21,Medicine
+637,Darya,Sadd,30,63.03,Data Science
+638,Duane,Marcussen,18,37.88,Biology
+639,Ginger,Nijs,27,53.82,Data Science
+640,Hube,Poppleton,19,89.13,Law
+641,Nanon,Pitrasso,18,39.38,International Relations
+642,Base,Mecco,29,87.55,International Relations
+643,Pascal,Goodding,28,49.11,Mechanical Engineering
+644,Sunshine,Semerad,26,8.40,Biology
+645,Minerva,Thaller,29,41.41,Psychology
+646,Elwira,Di Roberto,30,53.60,Political Science
+647,Myrtice,Mc Queen,28,15.66,Mechanical Engineering
+648,Gabriellia,Lukianov,24,68.27,Economics
+649,Cindi,Coarser,18,99.08,Economics
+650,Udell,Ricardet,28,57.92,Fine Arts
+651,Sampson,Jankovic,21,51.45,Economics
+652,Bettye,Spenclay,25,30.90,Architecture
+653,Phillida,Stallibrass,30,51.51,Data Science
+654,Natale,McKirdy,26,16.34,Political Science
+655,Goldy,Reynold,21,0.19,Mechanical Engineering
+656,Orelle,Stoll,21,16.27,International Relations
+657,Finley,Valti,24,70.88,Biology
+658,Kingsly,Hillock,30,32.76,Medicine
+659,Devan,Touret,18,83.05,Mechanical Engineering
+660,Leonore,Plowman,23,18.08,International Relations
+661,Clement,Clohessy,24,77.16,Mechanical Engineering
+662,Katherina,Spira,27,41.00,Environmental Science
+663,Berte,Beat,26,7.16,Biology
+664,Percival,Fairham,21,96.98,Political Science
+665,Minerva,Duck,26,5.51,Data Science
+666,Lexis,Tchir,20,52.79,International Relations
+667,Theodosia,Tommasetti,27,10.38,International Relations
+668,Gus,Goaks,22,52.44,Business Administration
+669,Andris,Latchmore,29,67.10,Computer Science
+670,Connie,Paroni,28,4.41,Environmental Science
+671,Gladys,Davidofski,29,14.94,International Relations
+672,Christin,Morphet,22,88.46,Architecture
+673,Daria,Stow,30,58.89,International Relations
+674,Garry,Kalderon,18,76.69,Political Science
+675,Kendricks,Boyen,24,46.71,Environmental Science
+676,Ranique,Conley,25,66.26,Biology
+677,Suellen,Spyby,24,27.69,Economics
+678,Meredith,Geere,29,76.36,Fine Arts
+679,Hatty,Laurens,29,96.53,Law
+680,Selig,Polycote,26,79.17,Business Administration
+681,Lira,Renne,27,21.44,Fine Arts
+682,Berni,Ridett,25,19.84,Law
+683,Elbertine,Denison,25,67.36,Biology
+684,Ami,Manueau,26,53.56,Biology
+685,Miguel,Jantel,25,26.05,Psychology
+686,Lonnie,Ridoutt,27,42.48,Fine Arts
+687,Vivyanne,Mongin,22,94.28,Architecture
+688,Olympe,Semkins,22,88.83,Data Science
+689,Walton,Kristiansen,29,54.21,International Relations
+690,Natalina,Ginni,20,70.45,Data Science
+691,Shelley,Kemble,27,49.78,Fine Arts
+692,Nannie,Strephan,27,42.77,Mechanical Engineering
+693,Dorie,Grzelczyk,21,57.80,Artificial Intelligence
+694,Alisander,Saill,20,20.24,Mechanical Engineering
+695,Janot,Lanktree,27,54.89,Artificial Intelligence
+696,Torrie,Mauchlen,24,1.83,Biology
+697,Michelle,Cossell,29,58.50,Economics
+698,Yorke,Ewenson,20,82.21,Medicine
+699,Josiah,Le Marquand,27,62.61,Law
+700,Lorant,Ricarde,28,10.36,Mechanical Engineering
+701,Aristotle,Heintz,27,12.09,Environmental Science
+702,Erika,Hayley,18,42.79,Architecture
+703,Nelie,Conklin,18,32.59,Artificial Intelligence
+704,Caro,Fullicks,21,36.16,Mechanical Engineering
+705,Cooper,Pratley,28,44.42,Environmental Science
+706,Catlee,Spores,26,79.84,Business Administration
+707,Gardy,Salatino,28,11.75,Computer Science
+708,Donni,Meech,19,34.81,Fine Arts
+709,Pebrook,d' Eye,30,79.04,Data Science
+710,Shannen,Charnley,19,53.31,International Relations
+711,Hildagarde,Bains,20,16.14,Architecture
+712,Elisabeth,Vayro,29,18.15,Medicine
+713,Stoddard,Pool,29,13.60,Economics
+714,Ardra,Warke,21,8.05,International Relations
+715,Wilhelm,Schwartz,26,79.54,Architecture
+716,Goraud,Chinnick,29,78.47,Mechanical Engineering
+717,Yuma,Jankowski,29,0.95,International Relations
+718,Catherin,Mault,25,86.91,Law
+719,Hoebart,Elwood,25,36.23,Law
+720,Em,Kenford,18,37.06,Artificial Intelligence
+721,Penelope,Leftridge,21,5.97,Computer Science
+722,Nelia,Luetchford,28,44.14,Medicine
+723,Richart,Fellow,24,25.33,International Relations
+724,Fredrick,O'Kinneally,24,87.70,Biology
+725,Goran,Ambroise,23,9.19,Economics
+726,Gunther,Watchorn,20,11.77,Artificial Intelligence
+727,Nicholas,Davidofski,20,40.14,Artificial Intelligence
+728,Alyse,Leist,18,21.84,Political Science
+729,Theresita,Bisley,26,67.13,Business Administration
+730,Anatol,Vannoni,25,9.29,Mechanical Engineering
+731,Penn,Kensy,22,51.71,Law
+732,Jeanine,Rudgard,25,74.11,International Relations
+733,Nancee,Croker,26,62.64,Architecture
+734,Betteann,Minards,28,77.02,Medicine
+735,Keane,Mebius,28,25.97,Economics
+736,Elbertine,Christou,24,47.11,Psychology
+737,Ruddy,Hugett,19,93.00,Biology
+738,Rafa,Shewery,27,65.54,Artificial Intelligence
+739,Holly,Dalziell,27,21.22,Data Science
+740,Klement,Speek,24,33.75,Biology
+741,Aldo,Balint,25,98.04,Mechanical Engineering
+742,Jozef,Trusler,28,9.25,Economics
+743,Sharlene,McGiffin,21,49.32,Fine Arts
+744,Odey,Kitching,20,77.50,Business Administration
+745,Kirbie,Winspear,30,25.65,Fine Arts
+746,Tanner,Petrov,20,14.10,Mechanical Engineering
+747,Millicent,Kluge,19,47.25,Law
+748,Marthe,Kunat,19,28.47,Psychology
+749,Noella,Reynolds,23,92.32,Economics
+750,Fern,Emerson,23,26.29,Mechanical Engineering
+751,Cindie,Bratch,20,86.80,Computer Science
+752,Boony,De'Ath,27,92.42,Architecture
+753,Vevay,Kemish,26,73.12,Psychology
+754,Twyla,Picton,26,18.16,Business Administration
+755,Devan,Jory,28,30.08,Artificial Intelligence
+756,Kristel,Maddin,19,59.60,Artificial Intelligence
+757,Shelly,Oldcroft,21,32.41,Economics
+758,Bee,Mc Trusty,23,98.50,Medicine
+759,Dinah,Amar,20,69.20,Environmental Science
+760,Olivier,Cowwell,25,3.93,Fine Arts
+761,Melissa,Blakely,28,99.08,Economics
+762,Patin,Janusik,25,24.86,Political Science
+763,Salvador,Heliar,26,64.83,Mechanical Engineering
+764,Barnett,Scough,24,33.02,International Relations
+765,Emilie,Desaur,30,91.73,Business Administration
+766,Giana,Filewood,20,59.34,Environmental Science
+767,Esmeralda,Blazejewski,26,61.34,Data Science
+768,Dorelia,Frushard,27,25.53,Architecture
+769,Caressa,Domican,25,24.06,Mechanical Engineering
+770,Denyse,Schwandner,25,58.72,Medicine
+771,Kristin,Bishell,29,71.94,Environmental Science
+772,Roderich,Meadley,18,40.68,Environmental Science
+773,Riannon,Fairham,19,45.38,Architecture
+774,Caron,Hagart,23,26.80,Political Science
+775,Gusti,Goldthorp,23,45.86,International Relations
+776,Ad,Dunning,30,54.53,Economics
+777,Abbie,MacGibbon,20,57.13,International Relations
+778,Tanner,Serfati,18,37.74,Environmental Science
+779,Stephi,Rounsefell,22,25.84,Data Science
+780,Ninetta,Francioli,19,4.26,International Relations
+781,Cordell,Eplate,27,61.55,Computer Science
+782,Reginald,Kerwick,20,67.95,Fine Arts
+783,Pierrette,Lecount,27,74.07,Business Administration
+784,Patty,Concklin,27,29.14,Biology
+785,Norri,Hargrave,24,66.76,International Relations
+786,Scottie,Capewell,19,22.27,Architecture
+787,Burgess,Haney,23,45.60,Economics
+788,Karlis,Deyes,20,21.14,Business Administration
+789,Denna,Lowensohn,25,57.68,Law
+790,Laura,Bramhill,26,28.57,Computer Science
+791,Osmond,Bowry,28,59.48,Psychology
+792,Allis,Geke,29,84.19,Law
+793,Hermann,Brace,21,11.30,Data Science
+794,Brittne,Dunican,29,96.45,Environmental Science
+795,Cathrin,Willerstone,29,10.66,Psychology
+796,Atalanta,Roblin,19,43.45,Medicine
+797,Demetra,Hirjak,30,19.81,Architecture
+798,Helli,Arblaster,27,57.56,Fine Arts
+799,Jake,Jendrys,27,20.96,Law
+800,Jeanne,Vasyutin,25,83.55,Business Administration
+801,Lowrance,Hein,24,57.17,Psychology
+802,Juli,Dornin,28,58.66,Computer Science
+803,Valerye,McWilliams,30,18.07,Mechanical Engineering
+804,Bibbye,Dounbare,25,51.59,Economics
+805,Rickie,Axcell,19,26.27,Fine Arts
+806,Urson,Olczak,21,64.61,Law
+807,Stanislaw,Pikhno,23,69.17,Biology
+808,Kasper,Glancy,25,65.77,Environmental Science
+809,Adelaida,Mityukov,20,22.05,Data Science
+810,Vladimir,Lesslie,21,9.48,Medicine
+811,Hillyer,Rennick,28,46.70,Data Science
+812,Erny,Ivamy,23,70.46,Data Science
+813,Stewart,McCarlie,20,50.10,Computer Science
+814,Ivan,Mettrick,30,37.61,Fine Arts
+815,Heriberto,Lording,22,24.78,Biology
+816,Melessa,Lago,23,59.22,Data Science
+817,Trevar,Eplate,23,29.74,Biology
+818,Emelita,Scholfield,21,47.65,Economics
+819,Barnett,Carlo,29,53.82,Data Science
+820,Eula,Killock,22,13.51,Law
+821,Kali,Rothman,21,28.08,Environmental Science
+822,Dasha,Lardnar,18,85.16,Fine Arts
+823,Walker,Bartaloni,26,63.09,Political Science
+824,Aubine,Hlavecek,19,9.50,Architecture
+825,Patton,Tull,20,33.73,Psychology
+826,Otis,Hollow,26,69.80,Mechanical Engineering
+827,Garnet,Kitchener,28,75.64,Computer Science
+828,Claudianus,Cruickshanks,21,29.02,Medicine
+829,Vonnie,Odney,26,7.73,Business Administration
+830,Margeaux,Ambroisin,27,19.75,Medicine
+831,Gerard,Evison,19,97.34,Psychology
+832,Joyous,Bodega,30,8.86,Architecture
+833,Rourke,Cabbell,27,6.35,Artificial Intelligence
+834,Blisse,Aggus,28,87.52,Computer Science
+835,Roselin,Branscomb,30,80.78,Mechanical Engineering
+836,Ivette,Matuszak,22,80.34,Biology
+837,Jamesy,Lodevick,29,7.84,Law
+838,Louis,Gerty,19,55.87,Environmental Science
+839,Timotheus,Penniell,26,75.32,Environmental Science
+840,Janifer,Temlett,29,14.83,Business Administration
+841,Cathy,Hazelden,23,29.64,Business Administration
+842,Margaretha,Glisane,20,60.94,Political Science
+843,Lazar,Chamberlin,30,88.86,Artificial Intelligence
+844,Aigneis,Yesinov,26,91.59,Biology
+845,Town,Jeaycock,19,49.78,Political Science
+846,Edgardo,Baskeyfield,22,33.88,Artificial Intelligence
+847,Hewie,Glazebrook,22,56.03,Computer Science
+848,Shaylynn,Jahnisch,30,44.92,Biology
+849,Sigmund,Klauer,28,42.24,Psychology
+850,Gabie,Benedtti,22,97.91,Economics
+851,Tyson,Minchinden,29,84.76,Fine Arts
+852,Marylou,Maffioni,19,38.03,International Relations
+853,Urbanus,Lethby,18,88.82,Environmental Science
+854,Ailina,McBratney,29,65.81,Political Science
+855,Hedwiga,Showt,28,47.61,Law
+856,Carrissa,Arnout,22,52.00,Economics
+857,Lynnell,O'Brallaghan,29,19.97,Artificial Intelligence
+858,Dede,Jakobsson,25,65.59,Computer Science
+859,Lucine,Proby,30,50.43,Environmental Science
+860,Milly,Bruyett,24,2.96,Environmental Science
+861,Lily,De Brett,26,16.67,Economics
+862,Eugene,Housecroft,25,8.28,International Relations
+863,Cherilynn,Alison,27,13.67,Law
+864,Ogdan,Tilne,30,7.26,Mechanical Engineering
+865,Giacomo,Kingcott,26,94.74,Fine Arts
+866,Arabella,Pardue,29,77.92,Economics
+867,Constancia,Hitcham,24,74.09,Data Science
+868,Aryn,Sinton,28,30.53,Data Science
+869,Ted,Worwood,18,36.48,Political Science
+870,Randy,Haslegrave,29,57.65,Architecture
+871,Krissy,Linke,20,36.92,Psychology
+872,Paule,Persian,29,95.19,Environmental Science
+873,Bobina,Simonel,26,35.21,Biology
+874,Sasha,Franklyn,23,71.87,Economics
+875,Jillana,Smallpeice,27,53.43,International Relations
+876,Wynny,Lawden,28,96.68,Environmental Science
+877,Corrina,Burnhill,25,51.41,Environmental Science
+878,Micki,Drepp,28,11.64,Psychology
+879,Demetre,Ream,18,81.10,Law
+880,Annemarie,Peaurt,20,92.68,Computer Science
+881,Gates,Cortese,26,93.51,Environmental Science
+882,Arvin,Bretherton,20,61.89,Environmental Science
+883,Isabella,Farlane,26,3.67,Data Science
+884,Tommy,Jeanequin,26,39.80,International Relations
+885,Jamaal,Harte,22,67.52,Medicine
+886,Rivy,Ferney,30,33.24,International Relations
+887,Aldrich,Lefort,20,52.98,Biology
+888,Lurlene,Axby,29,57.69,Computer Science
+889,Garik,Hammand,25,92.73,Mechanical Engineering
+890,Carmelia,Coulthurst,30,16.88,Artificial Intelligence
+891,Trudey,Sebring,24,67.29,Data Science
+892,Lonna,Chittim,29,2.77,Medicine
+893,Denny,Fessier,23,13.93,Political Science
+894,Archaimbaud,Adamek,28,84.10,Artificial Intelligence
+895,Carol,Bendig,20,77.68,International Relations
+896,Brook,Gosse,26,29.36,Business Administration
+897,Conway,Pankethman,19,15.59,Political Science
+898,Gerrie,MacGillacolm,21,10.50,Political Science
+899,Ashley,Deshorts,28,31.85,Political Science
+900,Millie,Haliburn,20,78.39,Psychology
+901,Rosalinde,Greatreax,28,2.47,Artificial Intelligence
+902,Tony,Strowther,26,82.25,Computer Science
+903,Colby,Isakowicz,26,41.32,Economics
+904,Ada,Dungee,22,81.87,Architecture
+905,Davon,Codman,24,48.35,Medicine
+906,Shaine,Oloman,29,72.81,International Relations
+907,Griffy,Barz,27,74.87,Mechanical Engineering
+908,Goober,Dufer,21,19.56,Architecture
+909,Almeda,Pimblett,29,16.52,Business Administration
+910,Karin,Kollaschek,23,91.25,Mechanical Engineering
+911,Heddi,Imorts,27,12.80,Business Administration
+912,Massimo,Ceschini,21,28.44,Environmental Science
+913,Larisa,Waddams,20,15.80,Data Science
+914,Cristina,Apted,29,28.25,Architecture
+915,Bailey,Pirrey,23,82.33,Computer Science
+916,Irwin,Lively,24,90.09,Data Science
+917,Janith,Gavigan,20,44.34,Law
+918,Sebastien,Gircke,27,56.17,Medicine
+919,Coriss,Alessandretti,24,21.42,Business Administration
+920,Ugo,Longhirst,30,20.87,Computer Science
+921,Agace,O'Calleran,27,73.37,Law
+922,Pace,L' Estrange,24,69.53,Artificial Intelligence
+923,Courtnay,Bugdell,30,7.12,Business Administration
+924,Chevalier,Vitte,27,3.34,Data Science
+925,Hebert,Derdes,28,38.00,Economics
+926,Germayne,Lilburne,29,49.64,Political Science
+927,Cindelyn,Dunsmuir,18,77.21,Business Administration
+928,Cletus,Huyghe,30,35.12,Economics
+929,Coleman,Kahan,21,72.84,Environmental Science
+930,Zola,Sikorsky,19,47.80,International Relations
+931,Tate,Reddy,24,62.18,International Relations
+932,Jessika,Czapla,24,97.65,Data Science
+933,Cami,Lane,29,12.55,Data Science
+934,Carlynn,Garnsey,19,18.76,Computer Science
+935,Freda,Marrian,26,18.99,Computer Science
+936,Jessie,Yukhov,28,64.38,Data Science
+937,Jenilee,MacAlinden,26,69.70,Political Science
+938,Xaviera,Chrippes,27,92.98,Economics
+939,Kristien,Dumphry,25,23.39,Law
+940,Truman,Nelsey,24,67.18,Mechanical Engineering
+941,Ronalda,Philipart,19,43.45,Psychology
+942,Adrianne,Coulthurst,26,82.02,Data Science
+943,Norris,Wrathmell,30,25.42,Psychology
+944,Rene,Dawson,19,9.45,Data Science
+945,Demetri,Franzettoini,18,36.06,International Relations
+946,Lyon,Widd,21,93.69,Environmental Science
+947,Leda,Casper,21,83.31,Biology
+948,Muriel,Tarply,26,56.26,Fine Arts
+949,Lydon,Emlen,23,40.77,Environmental Science
+950,Shirlee,Horrigan,25,99.03,Law
+951,Maxwell,Wylie,21,45.66,Mechanical Engineering
+952,Gary,Fenby,26,8.16,Fine Arts
+953,Anissa,Priestnall,19,52.30,Law
+954,Giulietta,Notton,29,7.24,Mechanical Engineering
+955,Ulrica,Ashman,26,39.64,Medicine
+956,Rochette,Bindin,26,29.38,Business Administration
+957,Valdemar,Dabourne,20,4.28,Business Administration
+958,Drucy,Gemelli,26,18.99,Economics
+959,Flem,Marley,26,69.51,International Relations
+960,Kiley,Cockrem,20,60.25,International Relations
+961,Elenore,Lantry,19,91.26,Artificial Intelligence
+962,Clive,Wickmann,20,10.81,Computer Science
+963,Annabela,Cassey,24,90.29,International Relations
+964,Johnathan,Wakeley,26,75.27,Law
+965,Jammie,Haddington,30,2.87,Law
+966,Lauraine,Soloway,28,38.79,Architecture
+967,Karoly,Wilber,28,49.25,Computer Science
+968,Gaspar,Ferrillo,30,71.02,Fine Arts
+969,Kaja,Golde,21,64.79,Political Science
+970,Mehetabel,Lubbock,30,61.48,Artificial Intelligence
+971,Ginni,Murcott,29,3.21,Fine Arts
+972,Daren,Heinzel,18,95.42,International Relations
+973,Zebedee,Dring,25,44.35,Medicine
+974,Guntar,Hanley,23,2.75,Economics
+975,Iorgos,Matches,21,41.30,Fine Arts
+976,Minette,Willets,22,85.97,Data Science
+977,Dalila,Yearne,19,0.54,International Relations
+978,Merrill,Jarvis,24,69.20,Data Science
+979,Rourke,Clowney,25,86.56,Architecture
+980,Briana,D'Elia,24,18.18,Business Administration
+981,Chrotoem,Meynell,21,50.55,Medicine
+982,Lari,Moppett,24,18.81,Business Administration
+983,Kenny,Slyman,19,13.60,Psychology
+984,Gabriel,Ritzman,25,65.77,Architecture
+985,Maximo,Strutley,23,77.61,Environmental Science
+986,Kendell,Mattingly,25,36.07,Environmental Science
+987,Maribeth,De Simoni,28,11.70,Medicine
+988,Olia,Stapleton,21,0.54,Medicine
+989,Janessa,Cabedo,23,2.31,Medicine
+990,Emmeline,Mates,30,53.88,Fine Arts
+991,Wanids,Blakely,23,33.65,Data Science
+992,Skippie,St. Ledger,29,62.64,Fine Arts
+993,Chrysa,Comer,23,40.95,Fine Arts
+994,Danella,Giraudoux,23,48.83,Computer Science
+995,Rori,Maciejak,18,3.76,Medicine
+996,Grazia,Cottey,23,52.68,Political Science
+997,Renell,Ennor,19,51.01,Political Science
+998,Barnabe,Danilchik,20,69.62,Biology
+999,Bella,Jersch,26,61.41,Law
+1000,Lida,Thornbarrow,22,7.06,Environmental Science
